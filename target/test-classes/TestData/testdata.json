@@ -1,0 +1,16 @@
+[
+{
+"id": "Login_001",
+"data": {
+"description": "Verify Login with vaild data",
+"username": "testlab@yopmail.com",
+"password": "ias12345"
+}
+},
+{
+"id": "OTHERS",
+"data": {
+"username": "testlab@yopmail.com"
+}
+}
+]
